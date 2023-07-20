@@ -1,0 +1,15 @@
+{
+  "id": "com.jjv360.lightshow",
+  "name": "Lightshow",
+  "version": "1.0.0",
+  "beta": true,
+  "pluginType": "Personal",
+  "description": "Syncs a beatsaber lightmap to music playing in-world",
+  "longDescription": "Syncs a beatsaber lightmap to music playing in-world",
+  "configuration": "n/a",
+  "category": "Fun",
+  "businessId": ".",
+  "price": 0,
+  "releaseNotes": ".",
+  "entrypoint": ""
+}
